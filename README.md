@@ -106,3 +106,6 @@ Some ideas for future versions include:
 * Multiplayer mode
 * Better question management using JSON or a database
 * Improved statistics dashboard
+
+Screeshot:
+<img width="351" height="518" alt="image" src="https://github.com/user-attachments/assets/8615d73a-13f3-4e8b-808d-14d9dcff8d3d" />
